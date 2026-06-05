@@ -1,10 +1,10 @@
-#Number Guessing Game🎮 (Gen-Z Edition)
+## Number Guessing Game🎮 (Gen-Z Edition)
 
 Touch grass? Nah. Guess numbers instead.
 
 A simple number guessing game built in Python while learning programming. Choose between Easy, Medium, and Hard modes, try to guess the secret number, and see how many attempts it takes before you become a Certified Number Rizzler \🗿.
 
-##✨Features
+## ✨Features
 🎯 Easy Mode (1–100)
 🎯 Medium Mode (1–500)
 🎯 Hard Mode (1–1000)
@@ -12,7 +12,7 @@ A simple number guessing game built in Python while learning programming. Choose
 🔄 Replay Functionality
 🚫 Input Validation (no random keyboard smashing allowed)
 
-##🚀 How to Run
+## 🚀 How to Run
 Make sure Python is installed.
 Download the project.
 Run:
